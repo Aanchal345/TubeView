@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "msedge",
+            "name": "https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en&pli=1",
+            "request": "launch",
+            "url": "https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en&pli=1"
+        }
+    ]
+}
